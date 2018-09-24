@@ -9,7 +9,7 @@
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/callatevoviejaqla.jpg", "label":"Callate vo vieja culia", "rule":"No puedes hablar hasta el siguiente turno.", "penance":"+10 sorbos"},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/choche.jpg", "label":"ME TIENEN HARTO CON LOS DEL YOUTUBE", "rule":"Desquitate, regala 10 sorbos (puedes dividirlos)", "penance":""},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/descarga.jpeg", "label":"levantate papi", "rule":"", "penance":""},
-      {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/diablosse%C3%B1orito.jpg", "label":"Diablos señorita", "rule":"Cuenta tu historia más candente y al terminar los demas responden con un diablos señorit@!", "penance":"+ 2 sorbos (Los que no responden con un diablos señorit@!)"},
+      {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/diablosse%C3%B1orito.jpg", "label":"Diablos señorita", "rule":"Cuenta tu historia más candente y al terminar los demas responden con un diablos señorit@!", "penance":"+ 2 sorbos"},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/dimondo.jpg", "label":"Dimondosworlds", "rule":"Eligen al participante más diva.", "penance":"+2 sorbos"},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/el-fritanga-632x400.jpg", "label":"KIE PAHOOO", "rule":"Es hora de que imites al fritanga, reptiliano maximo. Si nadie se rie tomas, si no, los regalas", "penance":"+ 5 sorbos"},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/felipito.jpg", "label":"felipito", "rule":"", "penance":""},
@@ -25,6 +25,7 @@
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/quenosvaigabien.JPG", "label":"vaigabn", "rule":"", "penance":""},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/shrek.jpg", "label":"shrek", "rule":"", "penance":""},
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/sientatemierda.jpg", "label":"Sientate mierda!!", "rule":"No puedes ir al baño, en caso contrario debes tomar un shot de destilado", "penance":"shot de destilado"}
-    ]
+    ],
+    "adsInterval": 10
   }
 }
