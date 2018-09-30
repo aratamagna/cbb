@@ -47,5 +47,27 @@
       {"icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_p3c725TLNk1r8dy8go1_500.gif", "label":"Tan matando a un weon!!", "rule":"Regalas 10 sorbos", "penance":""}
     ],
     "adsInterval": 7
-  }
+  },
+  "drinkList":[
+    {"label":"one", "desc":"", "image":""},
+    {"label":"zerotwo", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""},
+    {"label":"", "desc":"", "image":""}
+  ]
 }
