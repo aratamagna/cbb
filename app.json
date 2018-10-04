@@ -50,22 +50,5 @@
   },
   "drinkList":[
     {"label":"terremoto", "desc":"trago deciochero dulce", "image":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/carta/terremoto.jpg"},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""},
-    {"label":"", "desc":"", "image":""}
   ]
 }
