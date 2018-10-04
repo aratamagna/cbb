@@ -49,8 +49,6 @@
     "adsInterval": 7
   },
   "drinkList":[
-    {"label":"one", "desc":"", "image":""},
-    {"label":"zerotwo", "desc":"", "image":""},
     {"label":"", "desc":"", "image":""},
     {"label":"", "desc":"", "image":""},
     {"label":"", "desc":"", "image":""},
