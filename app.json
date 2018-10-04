@@ -49,9 +49,7 @@
     "adsInterval": 7
   },
   "drinkList":[
-    {"label":"Piscolas", "desc":"Hielos
-1 botella pisco
-1 bebida coca -cola", "image":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/carta/Piscolas.jpg"},
+    {"label":"Piscolas", "desc":"Hielos \r\n1 botella pisco\r\n1 bebida coca -cola", "image":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/carta/Piscolas.jpg"},
     {"label":"terremoto", "desc":"trago deciochero dulce", "image":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/carta/terremoto.jpg"}
   ]
 }
