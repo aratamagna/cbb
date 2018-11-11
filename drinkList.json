@@ -1,6 +1,6 @@
 {
   "drinkList": [
     {"label":"Terremoto", "desc":"Helado de piña + pipeño + granadina y salud!", "image":"https://raw.githubusercontent.com/aratamagna/cbb/master/carta/terremoto.jpg"},
-    {"label":"test", "desc":"", "image":""}
+    {"label":"test", "desc":"", "image":"https://raw.githubusercontent.com/aratamagna/cbb/master/carta/Screenshot_20181111-191716.png"}
   ]
 }
