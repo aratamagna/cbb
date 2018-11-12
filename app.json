@@ -2,274 +2,276 @@
    "game":{
       "cards":[
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/2017-12-20T22_00_13.706Z_image.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/2017-12-20T22_00_13.706Z_image.jpg",
             "label":"Botota fox",
             "rule":"Te reta a que tomes africano, si no puedes al seco!",
-            "penance":"al seco"
+            "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/151416708136.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/151416708136.gif",
             "label":"Niño ruso",
-            "rule":"Es hora de demostrar tu mejor imitación, agarra unos lentes, sube la musica y ponte a bailar como el niño ruso. Inmediatamente tomar 8 sorbos",
+            "rule":"Es hora de demostrar tu mejor imitación, agarra unos lentes, sube la música y ponte a bailar como el niño ruso. Inmediatamente tomar 8 sorbos",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/alomacho2.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/alomacho2.gif",
+            "label":"A LO MACHO",
+            "rule":"Agarra un pisco y bebe del dulce elixir.",
+            "penance":""
+         },
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/B04.jpg",
+            "label":"Habbo Hotel",
+            "rule":"Todos los que hayan sido HC deben tomar por BOBBA!",
+            "penance":"+2 sorbos"
+         },
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/FB_IMG_1535571048594.jpg",
             "label":"",
-            "rule":"",
+            "rule":" El jugador debe contar un chiste a los dem´as jugadores. Los jugadores que se rÍan del chiste
+contado (sin contar a la persona que lo contÓ) deben tomar 1 sorbo. En caso que ning´un jugador diferente
+a la persona que cont´o el chiste se rÍa, ´este debe tomar 1 sorbo.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/B04.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/FB_IMG_1536677932264.jpg",
             "label":"",
-            "rule":"",
+            "rule":"Puedes agregar, modificar o deshacer una regla.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/FB_IMG_1535571048594.jpg",
-            "label":"",
-            "rule":"",
-            "penance":""
-         },
-         {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/FB_IMG_1536677932264.jpg",
-            "label":"",
-            "rule":"",
-            "penance":""
-         },
-         {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/FOTO20020100518175744.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/FOTO20020100518175744.jpg",
             "label":"Lelo",
             "rule":"Todos los jugadores que hayan tenido fotolog deben tomar",
             "penance":"+1 sorbo por pokemones"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/IMG-20170502-WA0060.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/IMG-20170502-WA0060.jpg",
             "label":"",
-            "rule":"",
+            "rule":"El weon más rancio desde ahora tomará el doble. Ustedes votan.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/Screenshot_20180921-201626.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/Screenshot_20180921-201626.jpg",
             "label":"ES EL DIA DEL PLATANUUU",
             "rule":"Entre todos elegirán al participante que le hará honores hoy a ese día.",
             "penance":"Y ¡SALUD! Por el día del plátano."
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/Screenshot_20180921-201806.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/Screenshot_20180921-201806.jpg",
             "label":"",
-            "rule":"",
+            "rule":"Cuenta tu historia más vergonzosa, de cualquier ámbito. Si no quieres revelar tus secretos tendrás que tomar tu vaso al seco.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/Screenshot_20180921-212339.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/Screenshot_20180921-212339.jpg",
             "label":"",
             "rule":"Todos toman menos el más curao, ustedes eligen.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/WhatsApp%20Image%202018-09-11%20at%2000.24.03.jpeg",
-            "label":"volao como pico",
-            "rule":"",
-            "penance":""
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/WhatsApp%20Image%202018-09-11%20at%2000.24.03.jpeg",
+            "label":"",
+            "rule":"El jugador que esté o va a estar próximamente modo marciano debe beber, por volao.",
+            "penance":"+1 sorbo para que no te de la pálida"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/_FB_IMG_1500684065442.jpg",
-            "label":"Por dios que recuerdos...",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/_FB_IMG_1500684065442.jpg",
+            "label":"Por Dios que recuerdos...",
             "rule":"Cuenta una historia que tengas con alguno de los participantes.",
             "penance":"Ambos toman 3 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/callate%20vo%20vieja%20qla.jpg",
-            "label":"¡Callate vo vieja culia!",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/callate%20vo%20vieja%20qla.jpg",
+            "label":"¡Callate vo' vieja culia!",
             "rule":"No puedes hablar hasta el siguiente turno",
             "penance":"+10 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/canciones-que-da%C3%B1aron-nuestro-cerebro_.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/canciones-que-da%C3%B1aron-nuestro-cerebro_.gif",
             "label":"Tengo calocha",
             "rule":"Que eso! Elijan a la que tiene más calocha a la cuenta de 3.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/choche.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/choche.jpg",
             "label":"LES VOY A SACAR LA CRESTA WEON CULIAO",
-            "rule":"Desquitate al igual que Choche.",
-            "penance":"regala 10 sorbos (puedes dividirlos)"
-         },
-         {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/descarga%20(1).jpeg",
-            "label":"",
-            "rule":"",
+            "rule":"Desquitate al igual que Choche... Regala 10 sorbos (puedes dividirlos)",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/descarga.jpeg",
-            "label":"",
-            "rule":"",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/descarga%20(1).jpeg",
+            "label":"Te voy a entubar los choclos en la raja",
+            "rule":"La mina más buena pal' garabato debe tomar, por chucheta.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/diablos%20se%C3%B1orito.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/descarga.jpeg",
+            "label":"Nuevo computoooo",
+            "rule":"¡Te salvaste! Se invierte la dirección del juego, ahora continua el del lado contrario.",
+            "penance":""
+         },
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/diablos%20se%C3%B1orito.jpg",
             "label":"Diablos señorita",
-            "rule":"Cuenta tu historia más candente y al terminar los demas responden con un diablos señorit@!",
+            "rule":"Cuenta tu historia más candente y al terminar los demás responden con un diablos señorit@!",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/dimondo.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/dimondo.jpg",
             "label":"Dimondosworld",
             "rule":"Elige al participante más diva",
             "penance":"+2 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/el-fritanga-632x400.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/el-fritanga-632x400.jpg",
             "label":"KE PAHOOO",
             "rule":"¡Soy el reptiliano máximo! Es hora de que imites al fritanga, puedes grabarte y subirlo a Instagram si lo deseas. Si nadie se rie tomas, si no los regalas.",
             "penance":"+5 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/felipito.jpg",
-            "label":"",
-            "rule":"",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/felipito.jpg",
+            "label":"Vuela alto halcón",
+            "rule":"En honor a el inigualable Felipe Camiroaga, salud",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/hermano-borra-esa-wea.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/hermano-borra-esa-wea.jpg",
             "label":"Emperador kast",
             "rule":"Te permite modificar o agregar una regla.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/hoyo-negro.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/hoyo-negro.jpg",
             "label":"HAS SIDO BENDECIDO POR EL HOYO NEGRO DE NELSON MAURI",
             "rule":"Regalas un al seco",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/hqdefault1.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/hqdefault1.jpg",
             "label":"Cuando tengo hambre...",
             "rule":"Di la verdad rosa! A quien te comerías de los participantes?",
             "penance":"+2 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/hqdefault.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/hqdefault.jpg",
             "label":"Por que no me chupai el pico?",
             "rule":"Cambia tu vaso por el de algún otro participante",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/instinto%20de%20madre%20leona.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/instinto%20de%20madre%20leona.jpg",
             "label":"Instinto de madre leona",
             "rule":"Elige a tus 3 cachorros que se salvaran de beber. Todos los demás jugadores toman 2 sorbos.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/juegues%20umu.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/juegues%20umu.gif",
             "label":"¡ERES UN JUEGUETE!",
             "rule":"Toma por cada vez que te hayan enviado a la friendzone.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/la%20calila.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/la%20calila.jpg",
             "label":"",
             "rule":"",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/nancy%20se%20digna.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/nancy%20se%20digna.jpg",
             "label":"Nancy se digna y PONTE EN CUATRO",
             "rule":"Ponte en cuatro y tomate un vaso de copete",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/ni%C3%B1opoeta.gif",
-            "label":"",
-            "rule":"",
-            "penance":""
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/ni%C3%B1opoeta.gif",
+            "label":"Pendejo poeta",
+            "rule":"Pablo de Rokha es bueno, pero Vicente vale el doble y el triple. La cultura chupistica pide: Nombres de poetas",
+            "penance":"+1 sorbo"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/paso.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/paso.jpg",
             "label":"Paso",
             "rule":"Todos toman menos el jugador actual.",
-            "penance":""
+            "penance":"+1 sorbo"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/porfavor%20ayudeme.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/porfavor%20ayudeme.jpg",
             "label":"Porfavor ayudame",
-            "rule":"Un jugador voluntariamente puede ayudarte a tomar  el copete.",
+            "rule":"Un jugador voluntariamente puede ayudarte a tomar  el copete. Si nadie se ofrece, cagaste.",
             "penance":"+15 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/pues-estuvo-muy-rico-y-todo-pero-plantilla-86Th7.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/pues-estuvo-muy-rico-y-todo-pero-plantilla-86Th7.jpg",
             "label":"Muy rico y todo pero...",
             "rule":"Toma el jugador que fue pateado recientemente.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/que%20nos%20vaiga%20bien.JPG",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/que%20nos%20vaiga%20bien.JPG",
             "label":"",
             "rule":"",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/quebrutal.jpg_large.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/quebrutal.jpg_large.jpg",
             "label":"Weona que brutal ",
             "rule":"Cuenta tu historia más brutal y finalizala con la cara.",
             "penance":"+2 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/screenshot-www.youtube.com-2018.09.07-19-07-49.png",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/screenshot-www.youtube.com-2018.09.07-19-07-49.png",
             "label":"Tengo calicho",
             "rule":"Que eso! Elijan al que tiene mas calicho a la cuenta de 3.",
-            "penance":""
+            "penance":"+1 sorbo"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/shrek.jpg",
-            "label":"",
-            "rule":"",
-            "penance":""
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/shrek.jpg",
+            "label":"Shrek it's love, Shrek it's life",
+            "rule":"La cultura chupística pide frases de la película Shrek, como por ejemplo: Los ogros son como cebollas",
+            "penance":"+3 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/sientatemierda.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/sientatemierda.jpg",
             "label":"¡¡¡Sientate mierda!!!",
-            "rule":"No puedes ir al baño, en caso contrario debes tomar un shot de destilado.",
+            "rule":"No puedes ir al baño, en caso contrario debes tomar un shot de algún destilado.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/tenor.gif",
-            "label":"",
-            "rule":"",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tenor.gif",
+            "label":"Nooooo, yo me voy... Chao",
+            "rule":"El jugador actual debe decir los nombres de cada participante y terminar con un Noooo, no se llama.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/tumblr_mfrho9Xudl1rxwl4bo1_500.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_mfrho9Xudl1rxwl4bo1_500.gif",
             "label":"Paaaabre",
             "rule":"Toma la cantidad de sorbos equivalentes a todas las monedas que tengan en los bolsillos.",
             "penance":""
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/tumblr_mzafk0IHJK1sjgw9bo2_500.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_mzafk0IHJK1sjgw9bo2_500.gif",
             "label":"",
             "rule":"",
             "penance":"+15 sorbos"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/tumblr_ng4q7iGm6c1rw80ozo1_400.gif",
-            "label":"",
-            "rule":"",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_ng4q7iGm6c1rw80ozo1_400.gif",
+            "label":"Tamo tiki taka",
+            "rule":"Pa ir a la disco! Como si estuviera llegando el auto y no hubiese tiempo... a tomar en cascada. El participante actual comienza a beber de su vaso, el otro lo sigue y así sucesivamente. En cuanto el jugador 1 pare de tomar,
+el jugador 2 tiene la posibilidad de seguir tomando (obligando al resto a seguir tomando) o en parar de
+tomar, otorgando la posibilidad de elegir entre continuar o parar al jugador 3, y as´ı sucesivamente hasta
+el jugador n.",
             "penance":""
          },
+
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/cbb/master/tumblr_p3c725TLNk1r8dy8go1_500.gif",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_p3c725TLNk1r8dy8go1_500.gif",
             "label":"Tan matando a un weon!!",
             "rule":"Regalas 10 sorbos",
             "penance":""
          }
       ],
       "adsInterval":7
-   },
-   "drinkList":[
-     {"label":"Terremoto", "desc":"Helado de piña + pipeño + granadina y salud!", "image":"https://raw.githubusercontent.com/aratamagna/cbb/master/carta/terremoto.jpg"},
-     {"label":"test", "desc":"this is a test", "image":"https://raw.githubusercontent.com/aratamagna/cbb/master/carta/Screenshot_20181111-191716.png"}
-   ]
+   }
 }
