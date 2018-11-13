@@ -28,7 +28,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/FB_IMG_1535571048594.jpg",
             "label":"",
-            "rule":" El jugador debe contar un chiste a los demás jugadores. Los jugadores que se rÍan del chiste contado (sin contar a la persona que lo contó) deben tomar 1 sorbo. En caso que ning´un jugador diferente a la persona que contó el chiste se rÍa, éste debe tomar 1 sorbo.",
+            "rule":" El jugador debe contar un chiste a los demás jugadores. Los jugadores que se rían del chiste contado (sin contar a la persona que lo contó) deben tomar 1 sorbo. En caso que ningún jugador diferente a la persona que contó el chiste se ría, éste debe tomar 1 sorbo.",
             "penance":""
          },
          {
@@ -46,7 +46,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/IMG-20170502-WA0060.jpg",
             "label":"",
-            "rule":"El weon más rancio desde ahora tomará el doble. Ustedes votan.",
+            "rule":"El weon más rancio desde ahora tomará el doble, ustedes votan.",
             "penance":""
          },
          {
@@ -62,6 +62,12 @@
             "penance":""
          },
          {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/300px-Surprised_Pikachu_HD.jpg",
+            "label":"Verdades",
+            "rule":"Cada jugador deberá decir una verdad del jugador que siga hasta que se complete una ronda. Por ejemplo: El jugador n le tiene ganas a jugador m",
+            "penance":"+1 sorbo el participante que ponga la cara de Pikachu en cualquier verdad."
+         },
+         {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/Screenshot_20180921-212339.jpg",
             "label":"",
             "rule":"Todos toman menos el más curao, ustedes eligen.",
@@ -70,7 +76,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/WhatsApp%20Image%202018-09-11%20at%2000.24.03.jpeg",
             "label":"",
-            "rule":"El jugador que esté o va a estar próximamente modo marciano debe beber, por volao.",
+            "rule":"El jugador que esté o vaya a estar próximamente modo marciano debe beber, por volao.",
             "penance":"+1 sorbo para que no te de la pálida"
          },
          {
@@ -124,7 +130,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/el-fritanga-632x400.jpg",
             "label":"KE PAHOOO",
-            "rule":"¡Soy el reptiliano máximo! Es hora de que imites al fritanga, puedes grabarte y subirlo a Instagram si lo deseas. Si nadie se rie tomas, si no los regalas.",
+            "rule":"¡Soy el reptiliano máximo! Es hora de que imites al fritanga, puedes grabarte o sacarte una foto y subirlo a Instagram. Si nadie se rie tomas, si no los regalas. Recuerda #CBBAPP para reírnos.",
             "penance":"+5 sorbos"
          },
          {
@@ -171,9 +177,9 @@
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/la%20calila.jpg",
-            "label":"",
-            "rule":"",
-            "penance":""
+            "label":"El care puta",
+            "rule":"Vieja sapa maraca culia vay a tener que irte. Indica a quienes has visto en actitudes lujuriosas con algún otro jugador.  ",
+            "penance":"+1 el elegido y +3 sorbos la vieja sapa."
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/nancy%20se%20digna.jpg",
@@ -256,7 +262,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_ng4q7iGm6c1rw80ozo1_400.gif",
             "label":"Tamo tiki taka",
-            "rule":"Pa ir a la disco! Como si estuviera llegando el auto y no hubiese tiempo... a tomar en cascada. El participante actual comienza a beber de su vaso, el otro lo sigue y así sucesivamente. En cuanto el jugador 1 pare de tomar, el jugador 2 tiene la posibilidad de seguir tomando (obligando al resto a seguir tomando) o en parar de tomar, otorgando la posibilidad de elegir entre continuar o parar al jugador 3, y así sucesivamente hasta el jugador n.",
+            "rule":"Pa ir a la disco! Como si estuviera llegando el auto y no hubiese tiempo... a tomar en cascada. El participante actual comienza a beber de su vaso y los demás jugadores lo siguen. En cuanto el jugador 1 pare de tomar, el jugador 2 tiene la posibilidad de seguir tomando o en parar de tomar, otorgando la posibilidad de elegir entre continuar o parar y así sucesivamente.",
             "penance":""
          },
 
