@@ -27,7 +27,7 @@
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/FB_IMG_1535571048594.jpg",
-            "label":"",
+            "label":"Chiste",
             "rule":" El jugador debe contar un chiste a los demás jugadores. Los jugadores que se rían del chiste contado (sin contar a la persona que lo contó) deben tomar 1 sorbo. En caso que ningún jugador diferente a la persona que contó el chiste se ría, éste debe tomar 1 sorbo.",
             "penance":""
          },
@@ -98,6 +98,12 @@
             "penance":""
          },
          {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/pedroengel.jpg",
+            "label":"Pedrito Engel",
+            "rule":"Toman todos los que sean el mismo signo que el jugador actual",
+            "penance":"+2 que gggico"
+         },
+         {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/choche.jpg",
             "label":"LES VOY A SACAR LA CRESTA WEON CULIAO",
             "rule":"Desquitate al igual que Choche... Regala 10 sorbos (puedes dividirlos)",
@@ -114,6 +120,12 @@
             "label":"Nuevo computoooo",
             "rule":"¡Te salvaste! Se invierte la dirección del juego, ahora continua el del lado contrario.",
             "penance":""
+         },
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/sangrexsangre.jpg",
+            "label":"Esto es sangre por sangre",
+            "rule":"Guaton byron. A lo maldito, elige a algun jugador que tenga que realizar 10 lagartijas o sentadillas con un vaso no vacío en alguna parte del cuerpo que no sean las manos.",
+            "penance":"Puedes hacer que beba la cantidad que tu desees del trago que tu prefieras."
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/diablos%20se%C3%B1orito.jpg",
@@ -200,7 +212,7 @@
             "penance":"+1 sorbo"
          },
          {
-            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/porfavor%20ayudeme.jpg",
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/1.jpg",
             "label":"Porfavor ayudame",
             "rule":"Un jugador voluntariamente puede ayudarte a tomar  el copete. Si nadie se ofrece, cagaste.",
             "penance":"+15 sorbos"
@@ -210,6 +222,12 @@
             "label":"Muy rico y todo pero...",
             "rule":"Toma el jugador que fue pateado recientemente.",
             "penance":""
+         },
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/raquel.jpg",
+            "label":"Imitación Karaoke",
+            "rule":"El jugador debe elegir una canción de algún artista que desee imitar.",
+            "penance":"Si lo hace mal +2 sorbos, de lo contrario, los regala."
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/que%20nos%20vaiga%20bien.JPG",
@@ -233,7 +251,7 @@
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/shrek.jpg",
             "label":"Shrek it's love, Shrek it's life",
             "rule":"La cultura chupística pide frases de la película Shrek, como por ejemplo: Los ogros son como cebollas",
-            "penance":"+3 sorbos"
+            "penance":"+3 sorbos el que no sepa"
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/sientatemierda.jpg",
@@ -256,8 +274,8 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_mzafk0IHJK1sjgw9bo2_500.gif",
             "label":"",
-            "rule":"",
-            "penance":"+15 sorbos"
+            "rule":"+15 SORBOS",
+            "penance":""
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_ng4q7iGm6c1rw80ozo1_400.gif",
