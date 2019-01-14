@@ -22,7 +22,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/B04.jpg",
             "label":"Habbo Hotel",
-            "rule":"Todos los que hayan sido HC deben tomar por BOBBA!",
+            "rule":"Todos los que hayan tenido Habbo deben tomar por BOBBA!",
             "penance":"+2 sorbos"
          },
          {
@@ -226,7 +226,7 @@
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/raquel.jpg",
             "label":"Imitación Karaoke",
-            "rule":"El jugador debe elegir una canción de algún artista que desee imitar.",
+            "rule":"El jugador debe elegir una canción de algún artista que desee imitar.En caso que el jugador no quiera debe tomar su vaso al seco.",
             "penance":"Si lo hace mal +2 sorbos, de lo contrario, los regala."
          },
          {
@@ -283,7 +283,12 @@
             "rule":"Pa ir a la disco! Como si estuviera llegando el auto y no hubiese tiempo... a tomar en cascada. El participante actual comienza a beber de su vaso y los demás jugadores lo siguen. En cuanto el jugador 1 pare de tomar, el jugador 2 tiene la posibilidad de seguir tomando o en parar de tomar, otorgando la posibilidad de elegir entre continuar o parar y así sucesivamente.",
             "penance":""
          },
-
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/luli.jpg",
+            "label":"Carabineros quiero alcoholemia, demanda, los odio, te odio.",
+            "rule":"Puedes vengarte, regala 20 sorbos entre los jugadores.",
+            "penance":""
+         },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tumblr_p3c725TLNk1r8dy8go1_500.gif",
             "label":"Tan matando a un weon!!",
