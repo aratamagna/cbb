@@ -236,6 +236,12 @@
             "penance":""
          },
          {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/tula.jpg",
+            "label":"¿Qué importa el nombre?",
+            "rule":"La cultura chupística pide nombres de copete con la bebida de todos los chilenos,Tula, tales como: Tulón (tula con ron)",
+            "penance":"+3 sorbos para el que pierda"
+         },
+         {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/rupaul.gif",
             "label":"Lipsync for your life!",
             "rule":"Llegó la hora de demostrar tu talento de drag queen, al más puro estilo de Rupaul Drag Race debes hacer un lipsync de la canción que tu quieras.",
