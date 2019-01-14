@@ -231,9 +231,15 @@
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/que%20nos%20vaiga%20bien.JPG",
-            "label":"",
-            "rule":"",
+            "label":"Que nos vaiga bien!",
+            "rule":"Elige a un participante que tenga que tomar todo lo que te toque por un turno completo.",
             "penance":""
+         },
+         {
+            "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/rupaul.gif",
+            "label":"Lipsync for your life!",
+            "rule":"Llegó la hora de demostrar tu talento de drag queen, al más puro estilo de Rupaul Drag Race debes hacer un lipsync de la canción que tu quieras.",
+            "penance":"El público calificará tu presentación y decidirá si debes tomar 5 sorbos o no."
          },
          {
             "icon":"https://raw.githubusercontent.com/aratamagna/umuuwutqm/master/quebrutal.jpg_large.jpg",
